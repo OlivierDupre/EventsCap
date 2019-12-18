@@ -16,7 +16,7 @@
 | [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD | - | closed | - |
 | [Devfest Paris](https://devfest.gdgparis.com/) | 14/02/2019 | 08/02/2019 | Issy-les-Moulineaux | 90€ | 1'200 | ? | ? | ? | - |
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | ? | ? | Toulouse | ?€ | 1'000 | https://devfest-toulouse.cfp.io/ | - | - | - |
-| [Devfest Nantes](https://devfest.gdgnantes.com/) | ? | ? | Nantes | ?€ | - | ? | - | - | - |
+| [Devfest Nantes](https://devfest.gdgnantes.com/) | ? | ? | Nantes | 100€ | 2'000 | ? | - | - | - |
 
 
 
