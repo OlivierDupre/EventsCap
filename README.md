@@ -17,14 +17,13 @@
 | [Devfest Paris](https://devfest.gdgparis.com/) | 14/02/2019 | 08/02/2019 | Issy-les-Moulineaux | 90€ | 1'200 | ? | ? | ? | - |
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | ? | ? | Toulouse | ?€ | 1'000 | https://devfest-toulouse.cfp.io/ | - | - | - |
 | [Devfest Nantes](https://devfest.gdgnantes.com/) | ? | ? | Nantes | 100€ | 2'000 | ? | - | - | - |
+| [Touraine Tech](https://touraine.tech/) | 31/01/2020 | 31/01/2020 | Tours | 25€ | 300 | https://cfp.touraine.tech/ | - | closed | - |
+| [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
 
 
 
-| [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
-| [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
 | [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
 | [Bdx.io](https://www.bdx.io/) | 09/11/2018 | 09/11/2018 | Bordeaux | https://cfp.bdx.io/ | 04/06/2018 | 31/08/2018 |
-| [Voxxed Microservices](https://voxxeddays.com/microservices/) | 29/10/2018 | 31/10/2018 | Paris | https://vxdms2018.confinabox.com/ | 15/04/2018 | 31/05/2018 |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 02/04/2019 | 02/04/2019 | Paris | - | - | - |
 | [Google Cloud Next](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019/) | 09/04/2019 | 11/04/2019 | San Fransisco | - | - | - |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
@@ -36,3 +35,4 @@
 | [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | ? | - |
 | [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
 | [Devoxx MA](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | ?€ | ? | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 | - |
+| [Voxxed Microservices](https://voxxeddays.com/microservices/) | ? | ? | Paris | ?€ | ? | https://vxdms2018.confinabox.com/ | ? | ? | - |
