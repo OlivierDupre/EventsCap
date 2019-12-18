@@ -21,10 +21,8 @@
 | [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
 | [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 006/04/202 | 08/04/2020 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
-
-
-
-
+| [Voxxed Zurich](https://voxxeddays.com/zurich/) | 10/03/2020 | 10/03/2020 | Zurich | 300€ | 500 | https://vdz20.cfp.dev/#/login | - | 09/12/2019 | - |
+| [Voxxed Milan](https://voxxeddays.com/milan/) | 16/05/2020 | 16/05/2020 | Milan | 150€ | ? | https://vdm20.cfp.dev/ | ? | 27/01/2020 | - |
 
 | [DataXDay](https://dataxday.fr/) | ? | ? | Paris | ? | ? | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | ? | ? | - |
 | [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | ? | - |
