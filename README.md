@@ -11,11 +11,12 @@
 | [RivieraDev](http://rivieradev.fr/) | 13/05/2019 | 15/05/2019 | Sophia-Antipolis | 150€ | 500 | https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL | - | 15/02/2020 | - |
 | [Devoxx UK](https://www.devoxx.co.uk/) | 13/05/2020 | 15/05/2020 | Londres | £465 | 1'400 | https://devoxxuk20.cfp.dev/ | - | 13/01/2020 | - |
 | [Devoxx FR](https://www.devoxx.fr/) | 15/04/2020 | 17/04/2020 | Paris | 625€| ? | https://cfp.devoxx.fr/ | 02/12/2019 | 12/01/2020 | - |
+| [Dockercon](https://www.docker.com/dockercon/) | 15/06/2020 | 18/06/2020 | Austin | $?| ? | - | - | - | - |
+| [Breizhcamp](https://www.breizhcamp.org/) | 25/03/2020 | 27/03/2020 | Rennes | ?€ | 700 | https://breizhcamp.cfp.io/ | ? | ? | - |
+| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx | - | closed | - |
 
 
 
-| [Breizhcamp](https://www.breizhcamp.org/) | 20/03/2019 | 22/03/2019 | Rennes | https://breizhcamp.cfp.io/ | 12/10/2018 | 20/01/2019 |
-| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 22/02/2019 | 22/02/2019 | Brest | https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx | - | - |
 | [Devfest Paris](https://devfest-paris-2019.firebaseapp.com/) | 08/02/2019 | 08/02/2019 | Paris | https://conference-hall.io/public/event/IaNjQ9YK9G4lMIhjvP9C | - | - |
 | [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
 | [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
@@ -35,4 +36,3 @@
 | [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | ? | - |
 | [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
 | [Devoxx MA](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | ?€ | ? | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 | - |
-| [Dockercon](https://www.docker.com/dockercon/) | 15/06/2020 | 18/06/2020 | Austin | $?| ? | - | - | - | - |
