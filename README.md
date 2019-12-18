@@ -9,10 +9,10 @@
 | [Kubecon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | 30/03/2020 | 02/04/220 | Amsterdam | 1500€ | 10'000 | https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/#overview | 02/10/2019 | 04/12/2019 | - |
 | [NewCrafts Paris](https://ncrafts.io/) | 28/05/2020 | 29/05/2020 | Paris | 580€ | ? | https://sessionize.com/newcrafts-paris-2020/ | 11/12/2019 | 01/03/2020 | - |
 | [RivieraDev](http://rivieradev.fr/) | 13/05/2019 | 15/05/2019 | Sophia-Antipolis | 150€ | 500 | https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL | - | 15/02/2020 | - |
+| [Devoxx UK](https://www.devoxx.co.uk/) | 13/05/2020 | 15/05/2020 | Londres | £465 | 1'400 | https://devoxxuk20.cfp.dev/ | - | 13/01/2020 |
 
 
 
-| [Devoxx UK](https://www.devoxx.co.uk/) | 08/05/2019 | 10/05/2019 | Londres | https://devoxxuk19.confinabox.com/ | 15/11/2018 | 11/01/2019 |
 | [Dockercon SF](https://www.docker.com/dockercon/) | 29/04/2019 | 02/05/2019 | San Francisco | - | - | - |
 | [Devoxx FR](https://www.devoxx.fr/) | 17/04/2019 | 19/04/2019 | Paris | https://cfp.devoxx.fr/ | 01/12/2018 | 14/01/2019 |
 | [Breizhcamp](https://www.breizhcamp.org/) | 20/03/2019 | 22/03/2019 | Rennes | https://breizhcamp.cfp.io/ | 12/10/2018 | 20/01/2019 |
