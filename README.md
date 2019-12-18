@@ -4,8 +4,6 @@
 | [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
 
 
-
-| [DataXDay](https://dataxday.fr/) | 27/06/2019 | 27/06/2019 | Paris | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 |
 | [Container Days](https://www.containerdays.io/) | 24/06/2019 | 26/06/2019 | Hamburg | https://sessionize.com/condays19 | 01/11/2018 | 01/02/2019 |
 | [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2019 | 21/06/2019 | Luxembourg | https://cfp-voxxed-lux.yajug.org/ | 15/01/2019 | 03/03/2019 |
 | [Devfest Lille](https://devfest.gdglille.org/) | 14/06/2019 | 14/06/2019 | Lomme | https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx | 13/11/2018 | 31/03/2019 |
@@ -34,3 +32,6 @@
 | [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
 | [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | 04/11/2019 | 08/11/2019 | Orlando | - | - | - |
 | [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
+
+
+| [DataXDay](https://dataxday.fr/) | - | - | Paris | - | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 | - |
