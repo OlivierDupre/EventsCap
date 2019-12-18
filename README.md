@@ -21,11 +21,9 @@
 | [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
 | [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 09/04/2019 | 11/04/2019 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
-| [AWS re:Invent](https://reinvent.awsevents.com/) | ? | ? | Las Vegas | $1'800 | 60'000 | - | - | - |
 
 
 
-| [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | 04/11/2019 | 08/11/2019 | Orlando | - | - | - |
 | [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
 
 
@@ -36,3 +34,5 @@
 | [Voxxed Microservices](https://voxxeddays.com/microservices/) | ? | ? | Paris | ?€ | ? | https://vxdms2018.confinabox.com/ | ? | ? | - |
 | [Codeurs en Seine](https://www.codeursenseine.com/) | ? | ? | Rouen | 0€ | 900 | https://codeursenseine.cfp.io/ | - | - | - |
 | [Bdx.io](https://www.bdx.io/) | ? | ? | Bordeaux | 80€ | 900 | https://cfp.bdx.io/ | ? | ? | - |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | ? | ? | Las Vegas | $1'800 | 60'000 | - | - | - |
+| [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | ? | ? | Orlando | $? | ? | - | - | - | - |
