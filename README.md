@@ -3,11 +3,11 @@
 | [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | - | - | - | - |
 | [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
 | [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
+| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | - | - | - | - | - |
 
 
 
 
-| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2019 | 21/06/2019 | Luxembourg | https://cfp-voxxed-lux.yajug.org/ | 15/01/2019 | 03/03/2019 |
 | [Devfest Lille](https://devfest.gdglille.org/) | 14/06/2019 | 14/06/2019 | Lomme | https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx | 13/11/2018 | 31/03/2019 |
 | [Web2Day](https://web2day.co/) | 05/06/2019 | 07/06/2019 | Nantes | https://web2day-2019.selecteev.io/ | 07/01/2019 | 03/03/2019 |
 | [Paris Container Day](https://paris-container-day.fr/) | 04/06/2019 | 04/06/2019 | Paris | https://cfp.paris-container-day.fr/ | 15/01/2019 | 01/03/2019 |
