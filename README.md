@@ -7,11 +7,11 @@
 | [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | 800 | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
 | [MixIT](https://mixitconf.org/) | 29/04/2020 | 30/04/2020 | Lyon | ? | 1200 | https://www.papercall.io/mixit20 | - | 15/01/2019 | - |
 | [Kubecon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | 30/03/2020 | 02/04/220 | Amsterdam | 1500€ | 10'000 | https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/#overview | 02/10/2019 | 04/12/2019 | - |
+| [NewCrafts](https://ncrafts.io/) | 28/05/2020 | 29/05/2020 | Paris | 580€ | ? | https://sessionize.com/newcrafts-paris-2020/ | 11/12/2019 | 01/03/2020 | - |
 
 
 
 
-| [NewCrafts](https://ncrafts.io/) | 16/05/2019 | 17/05/2019 | Paris | http://cfp.ncrafts.io/ | 23/11/2018 | 03/03/2019 |
 | [RivieraDev](http://rivieradev.fr/) | 15/05/2019 | 17/05/2019 | Sophia-Antipolis | http://rivieradev.fr/cfp | 19/11/2018 | 31/01/2019 |
 | [Devoxx UK](https://www.devoxx.co.uk/) | 08/05/2019 | 10/05/2019 | Londres | https://devoxxuk19.confinabox.com/ | 15/11/2018 | 11/01/2019 |
 | [Dockercon SF](https://www.docker.com/dockercon/) | 29/04/2019 | 02/05/2019 | San Francisco | - | - | - |
