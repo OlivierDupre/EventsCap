@@ -1,15 +1,15 @@
-| Nom de la conférence | Début | Fin | Ville | Tarif | CFP | Début | Fin | Soumissionnaires |
+| Nom de la conférence | Début | Fin | Ville | Tarif | Participants | CFP | Début | Fin | Soumissionnaires |
 |-|-|-|-|-|-|-|-|-|
 | [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | ? | ? | ? | - |
 | [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
 | [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
 | [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | ? | ? | ? | ? | - |
 | [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
+| [MixIT](https://mixitconf.org/) | 29/04/2020 | 30/04/2020 | Lyon | ? | 1200 | https://www.papercall.io/mixit20 | - | 15/01/2019 | - |
 
 
 
 
-| [MixIT](https://mixitconf.org/) | 23/05/2019 | 24/05/2018 | Lyon | https://sessionize.com/mixit19/ | 01/11/2018 | 20/01/2019 |
 | [Kubecon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) | 21/05/2019 | 23/05/2019 | Barcelone | https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/ | 16/11/2018 | 18/01/2019 |
 | [NewCrafts](https://ncrafts.io/) | 16/05/2019 | 17/05/2019 | Paris | http://cfp.ncrafts.io/ | 23/11/2018 | 03/03/2019 |
 | [RivieraDev](http://rivieradev.fr/) | 15/05/2019 | 17/05/2019 | Sophia-Antipolis | http://rivieradev.fr/cfp | 19/11/2018 | 31/01/2019 |
