@@ -1,7 +1,6 @@
-| Nom de la conférence | Début | Fin | Ville | CFP | Début | Fin |
-|-|-|-|-|-|-|-|
-| [DevOps World Lisbonne](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 09/06/2019 |
-| [DevOps World SF](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 10/03/2019 |
+| Nom de la conférence | Début | Fin | Ville | Tarif | CFP | Début | Fin | Soumissionnaires |
+|-|-|-|-|-|-|-|-|-|
+| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | $799 | Las Vegas | - | - | - | - |
 | [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
 | [DataXDay](https://dataxday.fr/) | 27/06/2019 | 27/06/2019 | Paris | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 |
 | [Container Days](https://www.containerdays.io/) | 24/06/2019 | 26/06/2019 | Hamburg | https://sessionize.com/condays19 | 01/11/2018 | 01/02/2019 |
