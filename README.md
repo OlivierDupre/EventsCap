@@ -14,10 +14,10 @@
 | [Dockercon](https://www.docker.com/dockercon/) | 15/06/2020 | 18/06/2020 | Austin | $?| ? | - | - | - | - |
 | [Breizhcamp](https://www.breizhcamp.org/) | 25/03/2020 | 27/03/2020 | Rennes | ?€ | 700 | https://breizhcamp.cfp.io/ | ? | ? | - |
 | [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD | - | closed | - |
+| [Devfest Paris](https://devfest.gdgparis.com/) | 14/02/2019 | 08/02/2019 | Issy-les-Moulineaux | 90€ | 1'200 | ? | ? | ? | - |
 
 
 
-| [Devfest Paris](https://devfest-paris-2019.firebaseapp.com/) | 08/02/2019 | 08/02/2019 | Paris | https://conference-hall.io/public/event/IaNjQ9YK9G4lMIhjvP9C | - | - |
 | [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
 | [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
 | [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
