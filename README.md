@@ -1,10 +1,10 @@
 | Nom de la conférence | Début | Fin | Ville | Tarif | Participants | CFP | Début | Fin | Soumissionnaires |
 |-|-|-|-|-|-|-|-|-|
-| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | ? | ? | ? | - |
-| [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
-| [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
-| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | ? | ? | ? | ? | - |
-| [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
+| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | ? | ? | ? | ? | - |
+| [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | 500 | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
+| [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ | 1000 |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
+| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | ? | 500 | ? | ? | ? | - |
+| [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | 800 | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
 | [MixIT](https://mixitconf.org/) | 29/04/2020 | 30/04/2020 | Lyon | ? | 1200 | https://www.papercall.io/mixit20 | - | 15/01/2019 | - |
 
 
@@ -34,6 +34,6 @@
 | [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
 
 
-| [DataXDay](https://dataxday.fr/) | - | - | Paris | - | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 | - |
-| [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | - |
-| [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
+| [DataXDay](https://dataxday.fr/) | ? | ? | Paris | ? | ? | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | ? | ? | - |
+| [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | ? | - |
+| [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
