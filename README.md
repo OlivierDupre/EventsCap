@@ -21,7 +21,7 @@
 | [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
 | [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 09/04/2019 | 11/04/2019 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
-| [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | ? | ? | Las Vegas | $1'800 | 60'000 | - | - | - |
 
 
 
