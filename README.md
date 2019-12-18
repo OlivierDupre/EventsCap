@@ -22,7 +22,6 @@
 
 
 
-| [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
 | [Bdx.io](https://www.bdx.io/) | 09/11/2018 | 09/11/2018 | Bordeaux | https://cfp.bdx.io/ | 04/06/2018 | 31/08/2018 |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 02/04/2019 | 02/04/2019 | Paris | - | - | - |
 | [Google Cloud Next](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019/) | 09/04/2019 | 11/04/2019 | San Fransisco | - | - | - |
@@ -36,3 +35,4 @@
 | [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
 | [Devoxx MA](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | ?€ | ? | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 | - |
 | [Voxxed Microservices](https://voxxeddays.com/microservices/) | ? | ? | Paris | ?€ | ? | https://vxdms2018.confinabox.com/ | ? | ? | - |
+| [Codeurs en Seine](https://www.codeursenseine.com/) | ? | ? | Rouen | 0€ | 900 | https://codeursenseine.cfp.io/ | - | - | - |
