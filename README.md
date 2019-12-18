@@ -19,12 +19,12 @@
 | [Devfest Nantes](https://devfest.gdgnantes.com/) | ? | ? | Nantes | 100€ | 2'000 | ? | - | - | - |
 | [Touraine Tech](https://touraine.tech/) | 31/01/2020 | 31/01/2020 | Tours | 25€ | 300 | https://cfp.touraine.tech/ | - | closed | - |
 | [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
-
-
-
-| [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 02/04/2019 | 02/04/2019 | Paris | - | - | - |
-| [Google Cloud Next](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019/) | 09/04/2019 | 11/04/2019 | San Fransisco | - | - | - |
+| [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
+| [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 09/04/2019 | 11/04/2019 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
+
+
+
 | [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | 04/11/2019 | 08/11/2019 | Orlando | - | - | - |
 | [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
 
