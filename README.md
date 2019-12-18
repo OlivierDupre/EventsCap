@@ -13,7 +13,7 @@
 | [Devoxx FR](https://www.devoxx.fr/) | 15/04/2020 | 17/04/2020 | Paris | 625€| ? | https://cfp.devoxx.fr/ | 02/12/2019 | 12/01/2020 | - |
 | [Dockercon](https://www.docker.com/dockercon/) | 15/06/2020 | 18/06/2020 | Austin | $?| ? | - | - | - | - |
 | [Breizhcamp](https://www.breizhcamp.org/) | 25/03/2020 | 27/03/2020 | Rennes | ?€ | 700 | https://breizhcamp.cfp.io/ | ? | ? | - |
-| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx | - | closed | - |
+| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD | - | closed | - |
 
 
 
