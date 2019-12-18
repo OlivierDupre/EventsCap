@@ -20,11 +20,10 @@
 | [Touraine Tech](https://touraine.tech/) | 31/01/2020 | 31/01/2020 | Tours | 25€ | 300 | https://cfp.touraine.tech/ | - | closed | - |
 | [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
 | [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
-| [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 09/04/2019 | 11/04/2019 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
+| [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 006/04/202 | 08/04/2020 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
 
 
 
-| [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
 
 
 | [DataXDay](https://dataxday.fr/) | ? | ? | Paris | ? | ? | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | ? | ? | - |
@@ -36,3 +35,4 @@
 | [Bdx.io](https://www.bdx.io/) | ? | ? | Bordeaux | 80€ | 900 | https://cfp.bdx.io/ | ? | ? | - |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | ? | ? | Las Vegas | $1'800 | 60'000 | - | - | - |
 | [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | ? | ? | Orlando | $? | ? | - | - | - | - |
+| [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-par-19/home.html) | 18/06/2019 | 18/06/2019 | Paris | ?€ | ? | - | - | - | - |
