@@ -9,7 +9,6 @@
 
 
 
-| [Web2Day](https://web2day.co/) | 05/06/2019 | 07/06/2019 | Nantes | https://web2day-2019.selecteev.io/ | 07/01/2019 | 03/03/2019 |
 | [Paris Container Day](https://paris-container-day.fr/) | 04/06/2019 | 04/06/2019 | Paris | https://cfp.paris-container-day.fr/ | 15/01/2019 | 01/03/2019 |
 | [MixIT](https://mixitconf.org/) | 23/05/2019 | 24/05/2018 | Lyon | https://sessionize.com/mixit19/ | 01/11/2018 | 20/01/2019 |
 | [Kubecon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) | 21/05/2019 | 23/05/2019 | Barcelone | https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/ | 16/11/2018 | 18/01/2019 |
@@ -37,3 +36,4 @@
 
 
 | [DataXDay](https://dataxday.fr/) | - | - | Paris | - | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 | - |
+| [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | - |
