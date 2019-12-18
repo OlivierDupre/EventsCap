@@ -4,11 +4,11 @@
 | [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
 | [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
 | [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | - | - | - | - | - |
+| [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
 
 
 
 
-| [Devfest Lille](https://devfest.gdglille.org/) | 14/06/2019 | 14/06/2019 | Lomme | https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx | 13/11/2018 | 31/03/2019 |
 | [Web2Day](https://web2day.co/) | 05/06/2019 | 07/06/2019 | Nantes | https://web2day-2019.selecteev.io/ | 07/01/2019 | 03/03/2019 |
 | [Paris Container Day](https://paris-container-day.fr/) | 04/06/2019 | 04/06/2019 | Paris | https://cfp.paris-container-day.fr/ | 15/01/2019 | 01/03/2019 |
 | [MixIT](https://mixitconf.org/) | 23/05/2019 | 24/05/2018 | Lyon | https://sessionize.com/mixit19/ | 01/11/2018 | 20/01/2019 |
