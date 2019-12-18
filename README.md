@@ -1,6 +1,6 @@
 | Nom de la conférence | Début | Fin | Ville | Tarif | CFP | Début | Fin | Soumissionnaires |
 |-|-|-|-|-|-|-|-|-|
-| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | $799 | Las Vegas | - | - | - | - |
+| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | - | - | - | - |
 | [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
 | [DataXDay](https://dataxday.fr/) | 27/06/2019 | 27/06/2019 | Paris | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 |
 | [Container Days](https://www.containerdays.io/) | 24/06/2019 | 26/06/2019 | Hamburg | https://sessionize.com/condays19 | 01/11/2018 | 01/02/2019 |
